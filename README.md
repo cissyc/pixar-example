@@ -1,2 +1,2 @@
 # pixar-example
-Simple data analysis and visualisation exercise using Pixar data; example taken from dataquest
+Simple data analysis and visualisation exercise using Pixar data; data and tasks from dataquest
